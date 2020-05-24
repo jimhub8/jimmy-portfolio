@@ -1,0 +1,4 @@
+.menu-popover-enter {
+  opacity: 0;
+  transform: rotateY(50deg);
+}

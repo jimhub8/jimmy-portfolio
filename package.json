@@ -1,0 +1,30 @@
+{
+  "name": "jimmy-portfolio",
+  "version": "1.0.0",
+  "description": "web developer portfolio",
+  "author": "Jimmy",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "element-ui": "^2.13.2",
+    "nuxt": "^2.0.0",
+    "nuxt-fontawesome": "^0.4.0",
+    "nuxt-material-design-icons": "^1.0.4",
+    "vue-typed-js": "^0.1.2",
+    "vue-typer": "^1.2.0",
+    "vue-typewriter": "^2.2.1",
+    "vue-typewriter-2": "^1.0.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "material-design-icons-iconfont": "^5.0.1"
+  }
+}
