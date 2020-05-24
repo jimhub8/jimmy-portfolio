@@ -85,3 +85,19 @@
     </div>
   </div></div></div></div><div class="simplebar-placeholder" style="width: auto; height: 749px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar" style="width: 25px; transform: translate3d(0px, 0px, 0px); display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: visible;"><div class="simplebar-scrollbar" style="transform: translate3d(0px, 0px, 0px); display: block; height: 321px;"></div></div></div>
 </template>
+
+<script>
+export default {
+
+    head() {
+        return {
+            title: 'Contact',
+            meta: [{
+                hid: 'description',
+                name: 'description',
+                content: 'Web developer'
+            }]
+        }
+    },
+}
+</script>

@@ -40,7 +40,7 @@
                         <div class="col-12 col-md-6 single-info"><span>Email:</span>
                           <p>
                           <a href="mailto:jimkiarie8@gmail.com" target="_blank">jimkiarie8@gmail.com</a>
-                          </p> 
+                          </p>
                         </div>
                       </div>
                       <div class="row">
@@ -118,6 +118,16 @@ export default {
       color: '#009e66'
     }
   },
+    head() {
+        return {
+            title: 'About',
+            meta: [{
+                hid: 'description',
+                name: 'description',
+                content: 'Web developer'
+            }]
+        }
+    },
 }
 </script>
 

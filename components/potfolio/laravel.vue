@@ -7,8 +7,7 @@
                     <v-img :aspect-ratio="16/9" src="https://cdn.vuetifyjs.com/images/cards/kitchen.png">
                         <v-expand-transition>
                             <div v-if="hover" class="d-flex transition-fast-in-fast-out black v-card--reveal display-3 white--text" style="height: 100%;">
-
-                                <p style="position: absolute">Speedball Courier Services</p>
+                                <p style="position: absolute">Speedball Courier</p>
                                 <v-tooltip v-model="show" bottom>
                                     <template v-slot:activator="{ on }">
                                         <v-btn icon v-on="on" style="margin-top: 70px">

@@ -15,8 +15,12 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'script', href: 'https://code.jquery.com/jquery-3.5.1.slim.min.js' },
 
-      // { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' }
+      { rel: 'stylesheet', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css' },
+      { rel: 'script', href: 'https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js' },
+      { rel: 'script', href: 'http://exill.dk/demo/kitzu/template/js/animatedModal.js' },
+      { rel: 'script', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js' },
     ]
   },
   /*
