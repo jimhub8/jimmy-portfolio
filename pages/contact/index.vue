@@ -43,28 +43,32 @@
                     <p class="info-description">Always available for freelance work if the right project comes along, Feel free to contact me!</p>
                     <ul class="list-unstyled list-info">
                       <li>
-                        <div class="media align-items-center"><span class="info-icon"><i class="icon ion-logo-ionic"></i></span>
+                        <div class="media align-items-center"><span class="info-icon">
+                          <!-- <i class="icon ion-logo-ionic"></i> -->
+                          <v-icon style="font-size: 40px;">account_circle</v-icon>
+                          </span>
                           <div class="media-body info-details">
-                            <h6 class="info-type">Name</h6><span class="info-value">Emma Smith</span>
+                            <h6 class="info-type">Name</h6><span class="info-value">James Kiarie</span>
                           </div>
                         </div>
                       </li>
                       <li>
-                        <div class="media align-items-center"><span class="info-icon"><i class="icon ion-md-map"></i></span>
+                        <div class="media align-items-center"><span class="info-icon">
+                          <i class="fa fa-map"></i></span>
                           <div class="media-body info-details">
-                            <h6 class="info-type">Location</h6><span class="info-value">4155 Mann Island, Liverpool, United Kingdom.</span>
+                            <h6 class="info-type">Location</h6><span class="info-value">Nairobi, Kenya</span>
                           </div>
                         </div>
                       </li>
                       <li>
-                        <div class="media align-items-center"><span class="info-icon"><i class="icon ion-md-call"></i></span>
+                        <div class="media align-items-center"><span class="info-icon"><i class="fa fa-phone"></i></span>
                           <div class="media-body info-details">
                             <h6 class="info-type">Call Me</h6><span class="info-value"><a href="tel:+254731090832">+254731 090 832</a></span>
                           </div>
                         </div>
                       </li>
                       <li>
-                        <div class="media align-items-center"><span class="info-icon"><i class="icon ion-md-send"></i></span>
+                        <div class="media align-items-center"><span class="info-icon"><i class="fa fa-envelope"></i></span>
                           <div class="media-body info-details">
                             <h6 class="info-type">Email Me</h6><span class="info-value"><a href="mailto:jimkiarie8@gmail.com">jimkiarie8@gmail.com</a></span>
                           </div>

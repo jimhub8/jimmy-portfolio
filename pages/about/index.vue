@@ -23,7 +23,7 @@
               <div class="row align-items-center">
                 <!-- Picture part-->
                 <div class="col-12 col-lg-5 info-img">
-                <img class="img-fluid img-thumbnail" src="img/info-img.jpg" alt="About Picture"></div>
+                <img class="img-fluid img-thumbnail" src="/images/jimmy.jpg" alt="About Picture"></div>
                 <!-- Content part-->
                 <div class="col-12 col-lg-7 info-content">
                   <div class="content-block">
@@ -104,7 +104,7 @@
               </div>
             </div>
             <!-- Testimonials section-->
-            
+
           </div>
         </div>
       </div>
