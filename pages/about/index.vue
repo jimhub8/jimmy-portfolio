@@ -52,7 +52,7 @@
                         </div>
                       </div>
                     </address>
-                    <div class="d-block d-sm-flex align-items-center"><a class="btn content-download button-main button-scheme" href="#0" role="button">Download CV</a>
+                    <div class="d-block d-sm-flex align-items-center"><a class="btn content-download button-main button-scheme" href="https://drive.google.com/open?id=19CKdKu3tKqs_Q1WCxk4U6ispo1HkwW9i" target="_blank" role="button">Download CV</a>
                       <ul class="list-unstyled list-inline content-follow">
                         <li class="list-inline-item"><a href="#0"><i class="fab fa-twitter"></i></a></li>
                         <li class="list-inline-item"><a href="#0"><i class="fab fa-instagram"></i></a></li>
