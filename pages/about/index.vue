@@ -13,7 +13,7 @@
               <div class="col-12">
                 <div class="section-heading page-heading">
                   <p class="section-description">Get to know me</p>
-                  <h2 class="section-title">About Me</h2>
+                  <h1 class="section-title">About Me</h1>
                   <div class="animated-bar"></div>
                 </div>
               </div>
