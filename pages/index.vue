@@ -20,11 +20,13 @@
         <!-- Social media icons-->
         <div class="fixed-block block-right">
             <ul class="list-unstyled social-icons">
-                <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#0"><i class="fab fa-facebook"></i></a></li>
-                <li><a href="#0"><i class="fab fa-linkedin"></i></a></li>
-                <li><a href="#0"><i class="fab fa-github"></i></a></li>
-                <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
+                <li><a target="_blank" href="https://github.com/Jimmy-kiarie8"><i class="fab fa-github"></i></a></li>
+                <li><a target="_blank" href="https://stackoverflow.com/users/8415539/jimmy-kiarie"><i class="fab fa-stack-overflow"></i></a></li>
+                <li><a target="_blank" href="https://laracasts.com/@jimkiarie8"><i class="fab fa-laravel"></i></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/jimmy-kiarie-a1a3a2114/"><i class="fab fa-linkedin"></i></a></li>
+                <li><a target="_blank" href="https://twitter.com/jimkiarie1"><i class="fab fa-twitter"></i></a></li>
+                <li><a target="_blank" href="https://web.facebook.com/profile.php?id=100009014339638"><i class="fab fa-facebook"></i></a></li>
+                <li><a target="_blank" href="https://www.instagram.com/jimmy.kiarie/"><i class="fab fa-instagram"></i></a></li>
             </ul>
         </div>
     </div>

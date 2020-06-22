@@ -95,15 +95,10 @@
                                                                 I did a few projects which included a simple blog, an ecommerce platform and a website.</p>
                                                         </div>
                                                         <div class="resume-item"><span class="item-arrow"></span>
-                                                            <h5 class="item-title">Internship</h5><span class="item-details">sept 2016 — jan 2018</span>
+                                                            <h5 class="item-title">Internship</h5><span class="item-details">sept 2018 — jan 2018</span>
                                                             <p class="item-description">I got an internship at Electra Software LTD, a software development company where I gained a lot of experience when I worked with an incredible developer team</p>
                                                         </div>
 
-                                                        <div class="resume-item"><span class="item-arrow"></span>
-                                                            <h5 class="item-title">Web Developer Freelancer</h5><span class="item-details">sept 2016 — sept 2018</span>
-                                                            <p class="item-description">I have gained a good amount of expirience by developing apps for different clients since 2016 while I was in second year.
-                                                                I did a few projects which included a simple blog, an ecommerce platform and a website.</p>
-                                                        </div>
                                                         <div class="resume-item"><span class="item-arrow"></span>
                                                             <h5 class="item-title">Speedball Courier Services</h5><span class="item-details">Software developer / sept 2018 — Present</span>
                                                             <p class="item-description">I have gained a good amount of expirience by developing apps for different clients since 2016

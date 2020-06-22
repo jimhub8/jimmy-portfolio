@@ -11,7 +11,30 @@
                                 <p style="position: absolute">Derricon Global</p>
                                 <v-tooltip v-model="show" bottom>
                                     <template v-slot:activator="{ on }">
-                                        <v-btn icon v-on="on" style="margin-top: 70px"  href="http://derriconglobal.com/"  target="_blank">
+                                        <v-btn icon v-on="on" style="margin-top: 70px" href="https://derriconglobal.com/" target="_blank">
+                                            <v-icon color="white lighten-1">visibility</v-icon>
+                                        </v-btn>
+                                    </template>
+                                    <span>Learn More</span>
+                                </v-tooltip>
+
+                            </div>
+                        </v-expand-transition>
+                    </v-img>
+                </v-card>
+            </v-hover>
+        </v-col>
+
+        <v-col cols="12" sm="4">
+            <v-hover v-slot:default="{ hover }">
+                <v-card class="mx-auto" color="grey lighten-4" max-width="600">
+                    <v-img :aspect-ratio="16/9" src="https://jimkiarie8.nyc3.digitaloceanspaces.com/swap/site/logo.jpg">
+                        <v-expand-transition>
+                            <div v-if="hover" class="d-flex transition-fast-in-fast-out black darken-2 v-card--reveal display-3 white--text" style="height: 100%;">
+                                <p style="position: absolute">Swap</p>
+                                <v-tooltip v-model="show" bottom>
+                                    <template v-slot:activator="{ on }">
+                                        <v-btn icon v-on="on" style="margin-top: 70px" href="https://swapstore.co.ke/" target="_blank">
                                             <v-icon color="white lighten-1">visibility</v-icon>
                                         </v-btn>
                                     </template>
