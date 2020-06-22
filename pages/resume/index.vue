@@ -25,7 +25,7 @@
                                                     <div class="animated-bar"></div>
 
                                                     <div class="d-block d-sm-flex align-items-center">
-                                                      <a class="btn content-download button-main button-scheme" href="https://drive.google.com/open?id=19CKdKu3tKqs_Q1WCxk4U6ispo1HkwW9i" target="_blank" role="button" style="margin: auto;margin-top: 30px;">Download CV</a>
+                                                      <a class="btn content-download button-main button-scheme" href="https://drive.google.com/file/d/15l4JiLzTEJxE-kQMOI06gT8mXIfaNtXt/view?usp=sharing" target="_blank" role="button" style="margin: auto;margin-top: 30px;">Download CV</a>
                                                     </div>
                                                 </div>
                                             </div>
