@@ -25,7 +25,7 @@
                                                     <div class="animated-bar"></div>
 
                                                     <div class="d-block d-sm-flex align-items-center">
-                                                      <a class="btn content-download button-main button-scheme" href="https://drive.google.com/file/d/15l4JiLzTEJxE-kQMOI06gT8mXIfaNtXt/view?usp=sharing" target="_blank" role="button" style="margin: auto;margin-top: 30px;">Download CV</a>
+                                                        <a class="btn content-download button-main button-scheme" href="https://drive.google.com/file/d/15l4JiLzTEJxE-kQMOI06gT8mXIfaNtXt/view?usp=sharing" target="_blank" role="button" style="margin: auto;margin-top: 30px;">Download CV</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -72,7 +72,13 @@
                                                                         Boxleo fulfillment center <a href="https://boxleo.co.ke" target="_blank" rel="noopener noreferrer">Boxleo Fulfillment </a>
                                                                     </li>
                                                                     <li>
+                                                                        Swap store <a href="http://swapstore.co.ke/" target="_blank" rel="noopener noreferrer">Swap store </a>
+                                                                    </li>
+                                                                    <li>
                                                                         Twoin Digital <a href="http://twoindigital.com" target="_blank" rel="noopener noreferrer">Twoin Digital</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        Nyumbani Mart <a href="http://nyumbanimart.co.ke/" target="_blank" rel="noopener noreferrer">Nyumbani Mart</a>
                                                                     </li>
                                                                     <li>
                                                                         Hillsdata Technology <a href="https://hillsdatatechnologies.co.ke" target="_blank" rel="noopener noreferrer">Hills data technologies</a>
@@ -87,6 +93,12 @@
                                                 </div>
                                                 <!-- Experience part-->
                                                 <div class="col-12 col-md-6">
+                                                    <div class="col-block experience">
+                                                        <h3 class="col-title">CAREER OBJECTIVE</h3>
+                                                        <div class="resume-item"><span class="item-arrow"></span>
+                                                            <p class="item-description">Hard-working recent university graduate with a BSC Mathematic and Computer science, with 4 years of work experience. Aiming to leverage academic experience and a proven knowledge of programming and web development to successfully fill the Software Development role at your company. Frequently praised as quality-oriented by my peers, I can be relied upon to help your company achieve its goals.</p>
+                                                        </div>
+                                                    </div>
                                                     <div class="col-block experience">
                                                         <h3 class="col-title">Experience</h3>
                                                         <div class="resume-item"><span class="item-arrow"></span>
